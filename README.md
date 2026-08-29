@@ -52,19 +52,8 @@ Violations:  7 axioms triggered
 Fiverr Services
 fiverr.com/k_logic_analyst
 
-| Package | Price | Delivery | |------
+---
 
-
-
-
-
-
-Claude Sonnet
-
-procedi
-markdown
-
-Copia
 | Package | Price | Delivery | What's Included |
 |---------|-------|----------|-----------------|
 | Quick Scan | $15 | 2 days | AST + Risk Score |
