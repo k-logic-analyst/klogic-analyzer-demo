@@ -28,3 +28,5 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+!reports/K_report_sample_input_*.pdf
+token
