@@ -1,4 +1,4 @@
-# CENTAURO-X9 — never expose
+# proprietary builds
 *.vault
 .ak_key_hash
 .ak_salt_secure
@@ -30,3 +30,6 @@ venv/
 Thumbs.db
 !reports/K_report_sample_input_*.pdf
 token
+
+.pytest_cache/
+test_output.txt
