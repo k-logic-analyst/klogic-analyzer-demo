@@ -33,3 +33,7 @@ token
 
 .pytest_cache/
 test_output.txt
+
+reports/archive/
+*.pre_cwe.bak
+*.pre_vault.bak
